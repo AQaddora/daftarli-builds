@@ -1,0 +1,18 @@
+# Ignore temporary build files
+*.tmp
+*.temp
+*.log
+
+# Keep the binaries (they're tracked with LFS)
+!*.apk
+!*.aab
+!*.dmg
+!*.exe
+!*.msi
+
+# Node modules if any scripts use them
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
