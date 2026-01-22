@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "releaseDate": "2026-01-22T00:00:00.000Z",
+  "builds": {
+    "android-apk": {
+      "fileName": "daftarli-1.0.0-android-apk.apk",
+      "size": 10036224,
+      "downloadUrl": "https://github.com/AQaddora/daftarli-builds/releases/download/v1.0.0/daftarli-1.0.0-android-apk.apk"
+    }
+  },
+  "downloadBaseUrl": "https://github.com/AQaddora/daftarli-builds/releases/download/v1.0.0",
+  "note": "Download URLs point to GitHub Releases (free, unlimited storage)"
+}
