@@ -9,7 +9,7 @@ Welcome to Daftarli! Your comprehensive accounting and invoice management soluti
 **Latest Version: v1.0.0**
 
 - **[Download APK (Android)](./daftarli-latest-android-apk.apk)** - For Android devices
-- **[Download AAB (Play Store)](./daftarli-latest-android-aab.aab)** - For Google Play Store distribution
+<!-- - **[Download AAB (Play Store)](./daftarli-latest-android-aab.aab)** - For Google Play Store distribution -->
 
 #### How to Install Android APK:
 1. Download the APK file to your Android device
@@ -18,7 +18,7 @@ Welcome to Daftarli! Your comprehensive accounting and invoice management soluti
 4. Follow the installation prompts
 5. Open Daftarli and start managing your business!
 
-### 🖥️ Desktop (Electron)
+### 🖥️ Desktop
 
 **Latest Version: v1.0.0**
 
