@@ -1,25 +1,25 @@
 {
-  "version": "1.0.0b2",
-  "releaseDate": "2026-01-25T23:28:36.028Z",
+  "version": "1.0.0b3",
+  "releaseDate": "2026-01-25T23:46:08.684Z",
   "builds": {
     "electron-mac": {
-      "fileName": "daftarli-1.0.0b2-electron-mac.dmg",
-      "destPath": "/Users/AhmedQaddoura/Work/QuickApps/daftarli/releases/daftarli-1.0.0b2-electron-mac.dmg",
-      "size": 208055876
+      "fileName": "daftarli-1.0.0b3-electron-mac.dmg",
+      "destPath": "/Users/AhmedQaddoura/Work/QuickApps/daftarli/releases/daftarli-1.0.0b3-electron-mac.dmg",
+      "size": 213637283
     },
     "electron-win": {
-      "fileName": "daftarli-1.0.0b2-electron-win.exe",
-      "destPath": "/Users/AhmedQaddoura/Work/QuickApps/daftarli/releases/daftarli-1.0.0b2-electron-win.exe",
-      "size": 172071487
+      "fileName": "daftarli-1.0.0b3-electron-win.exe",
+      "destPath": "/Users/AhmedQaddoura/Work/QuickApps/daftarli/releases/daftarli-1.0.0b3-electron-win.exe",
+      "size": 172071600
     },
     "android-apk": {
-      "fileName": "daftarli-1.0.0b2-android-apk.apk",
-      "destPath": "/Users/AhmedQaddoura/Work/QuickApps/daftarli/releases/daftarli-1.0.0b2-android-apk.apk",
+      "fileName": "daftarli-1.0.0b3-android-apk.apk",
+      "destPath": "/Users/AhmedQaddoura/Work/QuickApps/daftarli/releases/daftarli-1.0.0b3-android-apk.apk",
       "size": 10111076
     },
     "android-aab": {
-      "fileName": "daftarli-1.0.0b2-android-aab.aab",
-      "destPath": "/Users/AhmedQaddoura/Work/QuickApps/daftarli/releases/daftarli-1.0.0b2-android-aab.aab",
+      "fileName": "daftarli-1.0.0b3-android-aab.aab",
+      "destPath": "/Users/AhmedQaddoura/Work/QuickApps/daftarli/releases/daftarli-1.0.0b3-android-aab.aab",
       "size": 8587242
     }
   },
