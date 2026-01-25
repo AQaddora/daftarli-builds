@@ -18,3 +18,8 @@ node_modules/
 Thumbs.db
 
 SETUP.md
+
+
+
+*.exe
+*.dmg

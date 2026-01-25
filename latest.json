@@ -1,17 +1,23 @@
 {
   "version": "1.0.0b1",
-  "releaseDate": "2026-01-25T09:59:17.064Z",
+  "releaseDate": "2026-01-25T14:44:52.299Z",
   "builds": {
+    "electron-mac": {
+      "fileName": "daftarli-1.0.0b1-electron-mac.dmg",
+      "size": 213610046
+    },
+    "electron-win": {
+      "fileName": "daftarli-1.0.0b1-electron-win.exe",
+      "size": 172050764
+    },
     "android-apk": {
       "fileName": "daftarli-1.0.0b1-android-apk.apk",
-      "destPath": "/Users/AhmedQaddoura/Work/QuickApps/daftarli/releases/daftarli-1.0.0b1-android-apk.apk",
       "size": 10085513
     },
     "android-aab": {
       "fileName": "daftarli-1.0.0b1-android-aab.aab",
-      "destPath": "/Users/AhmedQaddoura/Work/QuickApps/daftarli/releases/daftarli-1.0.0b1-android-aab.aab",
       "size": 8565086
     }
   },
-  "downloadBaseUrl": "https://github.com/AQaddora/daftarli-builds/releases/download/v1.0.0b1/daftarli-1.0.0-android-apk.apk"
+  "downloadBaseUrl": "https://github.com/AQaddora/daftarli-builds/releases/download/v1.0.0b1"
 }
