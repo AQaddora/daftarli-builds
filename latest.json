@@ -1,11 +1,16 @@
 {
   "version": "1.0.0",
-  "releaseDate": "2026-01-25T09:08:24.441Z",
+  "releaseDate": "2026-01-25T09:19:55.157Z",
   "builds": {
     "android-apk": {
       "fileName": "daftarli-1.0.0-android-apk.apk",
       "destPath": "/Users/AhmedQaddoura/Work/QuickApps/daftarli/releases/daftarli-1.0.0-android-apk.apk",
-      "size": 10089254
+      "size": 10085513
+    },
+    "android-aab": {
+      "fileName": "daftarli-1.0.0-android-aab.aab",
+      "destPath": "/Users/AhmedQaddoura/Work/QuickApps/daftarli/releases/daftarli-1.0.0-android-aab.aab",
+      "size": 8565086
     }
   },
   "downloadBaseUrl": "https://github.com/YOUR_ORG/daftarli-releases/raw/main"
