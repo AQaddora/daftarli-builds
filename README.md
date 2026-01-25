@@ -162,7 +162,7 @@ Daftarli is a comprehensive accounting and business management solution designed
 
 ### Video Tutorials
 
-*Coming soon - video tutorials in Arabic and English*
+*Coming soon - video tutorials*
 
 ## User Guides
 
