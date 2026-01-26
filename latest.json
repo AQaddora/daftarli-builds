@@ -1,12 +1,6 @@
 {
   "version": "1.0.0-beta.6",
-  "releaseDate": "2026-01-26T18:52:23.512Z",
-  "builds": {
-    "android-apk": {
-      "fileName": "daftarli-1.0.0-beta.6-android-apk.apk",
-      "destPath": "/Users/AhmedQaddoura/Work/QuickApps/daftarli/releases/daftarli-1.0.0-beta.6-android-apk.apk",
-      "size": 10116118
-    }
-  },
+  "releaseDate": "2026-01-26T18:56:11.122Z",
+  "builds": {},
   "downloadBaseUrl": "https://github.com/YOUR_ORG/daftarli-releases/raw/main"
 }
