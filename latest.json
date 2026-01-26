@@ -1,12 +1,6 @@
 {
   "version": "1.0.0-beta.5",
-  "releaseDate": "2026-01-26T08:36:47.722Z",
-  "builds": {
-    "electron-win": {
-      "fileName": "daftarli-1.0.0-beta.5-electron-win.exe",
-      "destPath": "/Users/AhmedQaddoura/Work/QuickApps/daftarli/releases/daftarli-1.0.0-beta.5-electron-win.exe",
-      "size": 172071433
-    }
-  },
+  "releaseDate": "2026-01-26T08:39:09.390Z",
+  "builds": {},
   "downloadBaseUrl": "https://github.com/YOUR_ORG/daftarli-releases/raw/main"
 }
