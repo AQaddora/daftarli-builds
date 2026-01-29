@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0-beta.6",
-  "releaseDate": "2026-01-26T18:56:11.122Z",
+  "version": "1.0.0-beta.7",
+  "releaseDate": "2026-01-29T18:56:11.122Z",
   "builds": {},
-  "downloadBaseUrl": "https://github.com/YOUR_ORG/daftarli-releases/raw/main"
+  "downloadBaseUrl": "https://api.daftarli.com/api/downloads"
 }
