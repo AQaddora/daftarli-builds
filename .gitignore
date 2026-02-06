@@ -3,13 +3,6 @@
 *.temp
 *.log
 
-# Keep the binaries (they're tracked with LFS)
-!*.apk
-!*.aab
-!*.dmg
-!*.exe
-!*.msi
-
 # Node modules if any scripts use them
 node_modules/
 
@@ -20,6 +13,7 @@ Thumbs.db
 SETUP.md
 
 
-
+*.aab
+*.apk
 *.exe
 *.dmg

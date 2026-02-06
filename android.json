@@ -1,10 +1,10 @@
 {
   "version": "1.0.0-beta.9",
-  "releaseDate": "2026-02-06T21:00:16.859Z",
+  "releaseDate": "2026-02-06T21:40:02.279Z",
   "builds": {
     "android-apk": {
       "fileName": "daftarli-1.0.0-beta.9-android-apk.apk",
-      "size": 10284017,
+      "size": 10283945,
       "downloadUrl": "https://api.daftarli.com/api/downloads/android/daftarli-1.0.0-beta.9-android-apk.apk"
     }
   }
