@@ -1,16 +1,16 @@
 {
-  "version": "1.0.0-beta.8",
-  "releaseDate": "2026-01-30T00:00:09.738Z",
+  "version": "1.0.0-beta.12",
+  "releaseDate": "2026-02-07T23:39:17.818Z",
   "builds": {
     "electron-win": {
-      "fileName": "daftarli-1.0.0-beta.8-electron-win.exe",
-      "size": 172088449,
-      "downloadUrl": "https://api.daftarli.com/api/downloads/electron/daftarli-1.0.0-beta.8-electron-win.exe"
+      "fileName": "daftarli-1.0.0-beta.12-electron-win.exe",
+      "size": 172225100,
+      "downloadUrl": "https://api.daftarli.com/api/downloads/electron/daftarli-1.0.0-beta.12-electron-win.exe"
     },
     "electron-mac": {
-      "fileName": "daftarli-1.0.0-beta.8-electron-mac.dmg",
-      "size": 213654869,
-      "downloadUrl": "https://api.daftarli.com/api/downloads/electron/daftarli-1.0.0-beta.8-electron-mac.dmg"
+      "fileName": "daftarli-1.0.0-beta.12-electron-mac.dmg",
+      "size": 213758063,
+      "downloadUrl": "https://api.daftarli.com/api/downloads/electron/daftarli-1.0.0-beta.12-electron-mac.dmg"
     }
   }
 }
