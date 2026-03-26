@@ -1,11 +1,11 @@
 {
-  "version": "1.0.6",
-  "releaseDate": "2026-03-26T14:08:04.963Z",
+  "version": "1.0.7",
+  "releaseDate": "2026-03-26T14:42:50.331Z",
   "builds": {
     "android-apk": {
-      "fileName": "daftarli-1.0.6-android-apk.apk",
-      "size": 10406463,
-      "downloadUrl": "https://api.daftarli.com/api/downloads/android/daftarli-1.0.6-android-apk.apk"
+      "fileName": "daftarli-1.0.7-android-apk.apk",
+      "size": 10439959,
+      "downloadUrl": "https://api.daftarli.com/api/downloads/android/daftarli-1.0.7-android-apk.apk"
     }
   }
 }
